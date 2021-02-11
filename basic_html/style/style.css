@@ -1,0 +1,9 @@
+.layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box_title {
+  color: blue;
+}
