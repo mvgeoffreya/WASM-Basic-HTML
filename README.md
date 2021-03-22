@@ -6,6 +6,7 @@ Create simple responsive framework with WASM .
 rustup target add wasm32-unknown-unknown
 
 rustup toolchain install nightly
+rustup toolchain install stable-x86_64-pc-windows-gnu
 
 rustup toolchain list
 
