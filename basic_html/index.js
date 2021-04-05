@@ -23,17 +23,6 @@ async function components(){
             ${author}
         </div> 
     </div>`)
-    // basic_html.then( data => 
-    //     data.generate(
-    //     `<div $${titleStyle}> 
-    //         <div> 
-    //             <h1> This Website is powered by WASM </h1>
-    //         </div>
-    //         <div> 
-    //             ${author}
-    //         </div> 
-    //     </div>`
-    // ))
 }
 
 components();
